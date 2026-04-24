@@ -1,0 +1,3 @@
+step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest,age,gender,category,isFraud
+1,PAYMENT,9839.64,C1231,170136.0,160296.36,M197,0.0,0.0,4,M,es_transportation,0
+1,PAYMENT,186.05,C1666,21249.0,21062.95,M480,0.0,0.0,2,M,es_food,0

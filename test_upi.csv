@@ -1,0 +1,5 @@
+amount,vpa_sender,vpa_receiver,device_score,location_cluster
+500.00,user1@okaxis,merchant@upi,0.95,42
+1250.50,user2@okicici,friend@okaxis,0.88,15
+50.00,user1@okaxis,scanner@upi,0.92,42
+9999.00,hacker@attacker,money_mule@upi,0.12,99
